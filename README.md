@@ -73,8 +73,10 @@ Here you'll find some of my personal<!-- and collaborative--> projects.
 ## 🏆 Achievements
 
 - 🥇 Semi-Finalist in spUN Highschool International Debates 2023 conducted by (NSS) National Space society in affiliation with NASA.
-- 🥈 Finalist 
+- 🥈 Finalist Weird Chess Conducted by Shaastra 24,IIT Madras.
 - 🥉 3rd place in Shunya Aarambha CTF Finale 2024 , CTF conducted by Team ncreeps, a passionate-cybersecurity team from MIT-ADT Campus, Pune.
+-    10th Place Shunya Aarambha CTF 24 Qualifiers.
+-    10th Place Vishwa CTF 24
 <!-- - 🥉 [Achievement 3]-->
 
 ## 📂 Projects
