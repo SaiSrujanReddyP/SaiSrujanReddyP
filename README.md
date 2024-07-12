@@ -1,16 +1,115 @@
-## Hi there 👋
+# 👋 Hi there, I'm Sai Srujan Reddy !
 
-<!--
-**SaiSrujanReddyP/SaiSrujanReddyP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Profile Views](https://komarev.com/ghpvc/?username=SaiSrujanReddyP&style=flat-square&color=blue) [![GitHub followers](https://img.shields.io/github/followers/SaiSrujanReddyP?label=Follow&style=social)](https://github.com/SaiSrujanReddyP/?tab=follow)
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile! 
+I'm a passionate [CTF player](https://ctftime.org/user/176882) with love for Cybersecurity. I am part of team bi0s which is ranked number Top 10 in the world and number 1 in India as per [CTFtime](https://ctftime.org/team/662).
+Here you'll find some of my personal<!-- and collaborative--> projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+- 🎓 I am currently pursuing B.Tech in CSE from Amrita Vishwa Vidyapeetham University.
+- 🌱 I’m currently learning topics related to web exploitation and OSINT.
+- 👯 I’m looking to collaborate on web exploitation tools creation projects. <!-- - 🤔 I’m looking for help with [Projects or areas where you need help]. -->
+- 💬 Ask me about Web exploitation.
+- 📫 How to reach me: srujansaireddy.p@gmail.com
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I am Ir0nw0lf3000!
+
+## 🛠 My Stack
+
+### Languages
+![HTML](https://img.shields.io/badge/-HTML-black?style=flat-square&logo=html5)
+![CSS](https://img.shields.io/badge/-CSS-black?style=flat-square&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![PHP](https://img.shields.io/badge/-PHP-black?style=flat-square&logo=php)
+![C](https://img.shields.io/badge/-C-black?style=flat-square&logo=c)
+![C++](https://img.shields.io/badge/-C++-black?style=flat-square&logo=c%2B%2B)
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
+![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)
+![Kotlin](https://img.shields.io/badge/-Kotlin-black?style=flat-square&logo=kotlin)
+![Rust](https://img.shields.io/badge/-Rust-black?style=flat-square&logo=rust)
+
+
+
+### Frameworks and Libraries
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+<!--![Laravel](https://img.shields.io/badge/-Laravel-black?style=flat-square&logo=laravel)-->
+![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
+![Express.js](https://img.shields.io/badge/-Express.js-black?style=flat-square&logo=express)
+
+### Databases
+![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql)
+
+### DevOps
+![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
+<!--![Jenkins](https://img.shields.io/badge/-Jenkins-black?style=flat-square&logo=jenkins)-->
+
+### Tools
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![VS Code](https://img.shields.io/badge/-VS%20Code-black?style=flat-square&logo=visual-studio-code)
+![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=linux)
+
+
+## 📈 GitHub Stats
+
+![SaiSrujanReddyP](https://github-readme-stats.vercel.app/api?username=SaiSrujanReddyP&show_icons=true&theme=radical)
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SaiSrujanReddyP&" alt="SaiSrujanReddyP" /></p>
+
+## 📊 Top Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SaiSrujanReddyP&layout=compact&theme=radical)
+
+## 📚 Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+
+<!-- BLOG-POST-LIST:END -->
+
+➡️ [More blog posts...](https://medium.com/@srujansaireddy.p)
+
+## 🏆 Achievements
+
+- 🥇 Semi-Finalist in spUN Highschool International Debates 2023 conducted by (NSS) National Space society in affiliation with NASA.
+- 🥈 Finalist 
+- 🥉 3rd place in Shunya Aarambha CTF Finale 2024 , CTF conducted by Team ncreeps, a passionate-cybersecurity team from MIT-ADT Campus, Pune.
+<!-- - 🥉 [Achievement 3]-->
+
+## 📂 Projects
+- [Stay Tuned...](https://github.com/) 
+
+### 📌 Featured Project
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=SaiSrujanReddyP&repo=write-up&theme=radical)](https://github.com/SaiSrujanReddyP/write-up)
+
+---
+
+⭐️ Don't forget to give the project a star if you found it useful!
+
+<!--### 🗂️ Other Projects
+
+- [Project 1](https://github.com/SaiSrujanReddyP/): 
+<!-- - [Project 2](https://github.com/SaiSrujanReddyP/): Brief description - [Project 3](https://github.com/SaiSrujanReddyP/): Brief description-->
+
+## 🔗 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](www.linkedin.com/in/pothamsetti-sai-srujan-reddy)
+[![Instagram](https://img.shields.io/badge/-Instagram-blue?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/naruto_ak77/)
+[![Personal Website](https://img.shields.io/badge/-Website-blue?style=flat-square&logo=website&logoColor=white)](https://SaiSrujanReddyP.github.io)
+
+## ☕️ Support
+
+If you like my work, you can buy me a coffee!
+
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-yellow?style=flat-square&logo=buy-me-a-coffee&logoColor=white)](https://buymeacoffee.com/saisrujanreddyp)
+---
+
+⭐️ From [SaiSrujanReddyP](https://github.com/SaiSrujanReddyP)
+
+---
+<p align="center">
+ <img width="1000" src="assets/github-snake.svg" alt="snake"/>
+</p>
+
