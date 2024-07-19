@@ -84,7 +84,7 @@ Here you'll find some of my personal<!-- and collaborative--> projects.
 
 ### 📌 Featured Project
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=SaiSrujanReddyP&repo=write-up&theme=radical)](https://github.com/SaiSrujanReddyP/write-up)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=SaiSrujanReddyP&repo=write-up&theme=radical)](https://github.com/SaiSrujanReddyP/OnlineCTF-Writeups)
 
 ---
 
