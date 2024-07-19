@@ -9,9 +9,9 @@ Here you'll find some of my personal<!-- and collaborative--> projects.
 ## 🚀 About Me
 
 - 🎓 I am currently pursuing B.Tech in CSE from Amrita Vishwa Vidyapeetham University.
-- 🌱 I’m currently learning topics related to web exploitation and OSINT.
-- 👯 I’m looking to collaborate on web exploitation tools creation projects. <!-- - 🤔 I’m looking for help with [Projects or areas where you need help]. -->
-- 💬 Ask me about Web exploitation.
+- 🌱 I’m currently learning topics related to Full Stack Development, Web Exploitation and OSINT.
+- 👯 I’m looking to collaborate on awesome open source projects and web exploitation tools creation projects.
+- 💬 Ask me about Web exploitation, Full Stack Development.
 - 📫 How to reach me: srujansaireddy.p@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am Ir0nw0lf3000!
