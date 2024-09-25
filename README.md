@@ -1,4 +1,9 @@
-# 👋 Hi there, I'm Sai Srujan Reddy !
+<!--# 👋 Hi there, I'm Sai Srujan Reddy !-->
+<img src="![welcome](https://github.com/user-attachments/assets/fd56ff18-0a2a-4385-badc-8bdcb00ba5a9)" width="900" height="350" >
+<br><br>
+
+<h1 align="center">Hi 👋, I'm Sai Srujan Reddy</h1>
+<h3 align="center">CTF Player | Full Stack Developer | Web Security Researcher </h3>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=SaiSrujanReddyP&style=flat-square&color=blue) [![GitHub followers](https://img.shields.io/github/followers/SaiSrujanReddyP?label=Follow&style=social)](https://github.com/SaiSrujanReddyP/?tab=follow)
 
