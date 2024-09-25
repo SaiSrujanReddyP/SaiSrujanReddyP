@@ -1,5 +1,5 @@
 <!--# 👋 Hi there, I'm Sai Srujan Reddy !-->
-<img src="![welcome](https://github.com/user-attachments/assets/fd56ff18-0a2a-4385-badc-8bdcb00ba5a9)" width="900" height="350" >
+<img src="welcome.gif" width="900" height="350" >
 <br><br>
 
 <h1 align="center">Hi 👋, I'm Sai Srujan Reddy</h1>
