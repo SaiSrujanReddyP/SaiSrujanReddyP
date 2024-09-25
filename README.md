@@ -1,5 +1,5 @@
 <!--# 👋 Hi there, I'm Sai Srujan Reddy !-->
-<img src="welcome.gif" width="900" height="350" >
+<img src="welcome.gif" >
 <br><br>
 
 <h1 align="center">Hi 👋, I'm Sai Srujan Reddy</h1>
