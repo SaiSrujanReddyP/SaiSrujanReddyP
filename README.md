@@ -1,6 +1,8 @@
 <!--# 👋 Hi there, I'm Sai Srujan Reddy !-->
-<img src="welcome.gif" >
-<br><br>
+<p align="center">
+  <img src="welcome.gif" alt="description" />
+</p>
+
 
 <h1 align="center">Hi 👋, I'm Sai Srujan Reddy</h1>
 <h3 align="center">CTF Player | Full Stack Developer | Web Security Researcher </h3>
