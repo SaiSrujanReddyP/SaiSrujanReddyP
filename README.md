@@ -23,7 +23,7 @@ Here you'll find some of my personal<!-- and collaborative--> projects.
 - 💬 Ask me about Web exploitation, Full Stack Development.
 - 📫 How to reach me: srujansaireddy.p@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I am Ir0nw0lf3000!
+- ⚡ Fun fact: I am omniscientchaos!
 
 ## 🛠 My Stack
 
